@@ -1,5 +1,5 @@
 ### Modbus stack
-*Currently going through a modbus rabbit hole* \
+*Currently going through a modbus phase* \
 [modbus master web ui](https://anttikotajarvi.github.io/modbus-webui/) \
 [modbus-webserial/examples](https://anttikotajarvi.github.io/modbus-webserial/examples/) \
 mb-slave client coming soon
